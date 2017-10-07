@@ -1,12 +1,38 @@
-.header{
-  font-family: Verdana;
+body{
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1{
   font-size: 50px;
   font-weight: normal;
-  color: white;
-  text-align: center;
 }
+
 
 #link{
   color: Aquamarine;
   font-size: 16px;
+}
+
+#video{
+
+  background-color: black;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+  }
+
+p{
+  font-size: 21px;
+  color: gray;
+  }
+
+#copyright{
+  text-align: right;
+  color: gray;
+  
 }
